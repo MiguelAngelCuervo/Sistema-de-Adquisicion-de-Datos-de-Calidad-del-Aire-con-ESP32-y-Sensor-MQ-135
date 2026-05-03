@@ -1006,8 +1006,8 @@ Esquemático del circuito:
 <div align="center">
 
 **ECCI — Escuela Colombiana de Carreras Industriales**  
-Ingeniería en Electrónica · Séptimo Semestre · 2026
+Ingeniería en Electrónica  · 2026
 
-Miguel Angel Cuervo Cuervo · John Alexander Cuadros M.
+Miguel Angel Cuervo Cuervo 
 
 </div>
