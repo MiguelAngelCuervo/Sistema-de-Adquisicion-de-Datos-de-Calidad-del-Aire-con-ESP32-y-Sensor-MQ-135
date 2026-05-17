@@ -11,9 +11,9 @@
 **Adquisición, visualización y almacenamiento en tiempo real de calidad del aire**  
 mediante sensor electroquímico MQ-135 y microcontrolador ESP32
 
-| 👤 Autores | 🏫 Institución | 📅 Semestre |
+| 👤 Autores | 🏫 Institución | 📅  |
 |---|---|---|
-| Miguel Angel Cuervo Cuervo | ECCI — Ingeniería en Electrónica | Séptimo — 2026 |
+| Miguel Angel Cuervo Cuervo | ECCI — Ingeniería en Electrónica | 2026 |
 
 
 </div>
