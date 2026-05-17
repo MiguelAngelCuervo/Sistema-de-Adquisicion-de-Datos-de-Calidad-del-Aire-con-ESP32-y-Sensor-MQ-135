@@ -64,25 +64,7 @@ Este proyecto implementa un **sistema completo de adquisición de datos de calid
 
 ### Flujo de datos
 
-```
-[MQ-135] ──AO──► [Potenciómetro] ──~3.3V──► [GPIO 34 / ADC1_CH6]
-                                                      │
-                                               [ESP32 ESP-IDF]
-                                                      │
-                                             printf("%d\n", adc_raw)
-                                                      │
-                                              [USB Serial 115200]
-                                                      │
-                                           [Python Dashboard PC]
-                                            ┌──────────────────┐
-                                            │  Manómetro        │
-                                            │  Forma de onda    │
-                                            │  Barra calidad    │
-                                            │  CSV en tiempo real│
-                                            │  Excel cada 10 s  │
-                                            └──────────────────┘
-```
-
+![Esquemático](IMAGENES/ESQUEMATICOESP.png)
 ---
 
 ## 🏗️ Arquitectura del Sistema
